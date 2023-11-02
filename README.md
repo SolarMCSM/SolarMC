@@ -1,15 +1,4 @@
 
-![image](https://github.com/HolaClient/HolaClient/assets/102372274/8cc5e386-223c-434e-ab35-e587515d5138)
-<p align="center" dir="auto">Trusted by hundreds of hosts and thousands of users.</p>
-<p align="center">
-  <a><img src="https://img.shields.io/github/downloads/HolaClient/HolaClient/total?color=blue&label=v1.5.8 Downloads"/></a>
-  <a href="https://discord.gg/CvqRH9TrYK"><img src="https://img.shields.io/discord/1038719273658499072?color=blue&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
-  <a href="https://holaclient.tech/docs"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Docs&up_color=blue&up_message=Online&url=https://holaclient.tech/docs"></a>
-    <a href="https://demo.holaclient.tech"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Demo&up_color=blue&up_message=Online&url=https://demo.holaclient.tech"></a>
-  <a  href="https://github.com/CR072/HolaClient/stargazers"><img src="https://img.shields.io/github/stars/HolaClient/HolaClient?label=Stars %E2%AD%90" height="20"/></a>
-</p>
-
----
 
 ## 🪶 Features
 - **Anti-PteroVM:** Automatically suspends servers using PteroVM.
@@ -54,13 +43,7 @@
 - GyaniLinks Earning: Earn coins by completing a link.
 - LinkPays Earning: Earn coins by completing a link.
 - Role Packages: Give a package to users who have the role.
----
 
-## 👀 Preview
-HolaClient Demo: https://demo.holaclient.tech/
-
-Landing Page (v1.5.8):
-![image](https://github.com/HolaClient/HolaClient/assets/102372274/f9cecf3f-5e88-404c-8c8f-49c8c9f0275a)
 
 Admin Home (v1.5.8):
 ![admin home](https://media.discordapp.net/attachments/1108054221456146534/1150167629726765126/image.png)
@@ -95,12 +78,3 @@ bash <(curl -s https://holaclient.tech/installer.sh)
 Please refer "LICENSE" and "CREDITS" files for better understability.
 
 ---
-
-## 🔗 Links
-- [**YouTube Channel**](https://youtube.com/@holallc)
-- [**Website**](https://holaclient.tech)
-- [**Discord Server**](https://discord.gg/ne8JwpGpX3)
-- [**Documentation**](https://docs.holaclient.tech)
-- [**HolaClient Demo**](https://demo.holaclient.tech)
-- [**Video Installation**](https://youtu.be/V4FnFKL3nGw)
-- [**lil trailer**](https://www.youtube.com/watch?v=66-wZzYsb-w&pp=ygUKaG9sYWNsaWVudA%3D%3D)
